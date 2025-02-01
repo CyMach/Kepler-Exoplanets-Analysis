@@ -2,27 +2,27 @@
 
 ***Scattered throughout countless galaxies, challenge the notion that we are alone in the universe.***
 
--->Exoplanets are the worlds that exist outside of our solar system.
+-Exoplanets are the worlds that exist outside of our solar system.
 
--->Also known as extrasolar planets, these bodies often orbit their own stars with some being part of entire planetary systems.
+-Also known as extrasolar planets, these bodies often orbit their own stars with some being part of entire planetary systems.
 
--->Exoplanets are made out of the same elements as the world’s and our solar system, based on their composition and structure are just as diverse varying atmospheric density and gravity.
+-Exoplanets are made out of the same elements as the world’s and our solar system, based on their composition and structure are just as diverse varying atmospheric density and gravity.
 
 **Classifications**
 
--->Neptune like planets large gaseous worlds 
+-Neptune like planets large gaseous worlds 
 
 Ex.: HAT P26B
 
--->Hot Jupiter | Closely orbit stars causing high temperatures 
+-Hot Jupiter | Closely orbit stars causing high temperatures 
 
 Ex.: WASP 18B
 
--->Super Earth | Smaller than gas giants larger than earth, Super earths are terrestrial made primarily of rocky or icy material  
+-Super Earth | Smaller than gas giants larger than earth, Super earths are terrestrial made primarily of rocky or icy material  
 
 Ex.: 555 Cancer B
 
--->Earth Analog | Similar to earth in size, composition and distance to their home star
+-Earth Analog | Similar to earth in size, composition and distance to their home star
 
 **Dataset**
 
@@ -54,20 +54,20 @@ koi_num_transits The number of expected transits or partially-observed transits
 
 **Classification models used**
 
--->Naive Bayes
+-Naive Bayes
 
--->Support Vector Machine
+-Support Vector Machine
 
--->Decision Tree
+-Decision Tree
 
--->Neural Network
+-Neural Network
 
--->Gaussian Mixture Model
+-Gaussian Mixture Model
 
--->Random Forest
+-Random Forest
 
--->AdaBoost
+-AdaBoost
 
--->XGBoost
+-XGBoost
 
 
